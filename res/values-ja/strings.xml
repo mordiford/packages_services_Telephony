@@ -192,6 +192,15 @@
     <string name="preferred_network_mode_lte_gsm_umts_summary" msgid="633315028976225026">"推奨ネットワークモード: LTE/GSM/UMTS"</string>
     <string name="preferred_network_mode_lte_cdma_summary" msgid="3722647806454528426">"優先ネットワークモード: LTE/CDMA"</string>
     <string name="preferred_network_mode_tdscdma_summary" msgid="8021016193718678775">"優先ネットワークモード: TDSCDMA"</string>
+    <string name="preferred_network_mode_tdscdma_wcdma_summary">"優先ネットワークモード: TDSCDMA / WCDMA"</string>
+    <string name="preferred_network_mode_lte_tdscdma_summary">"優先ネットワークモード: LTE / TDSCDMA"</string>
+    <string name="preferred_network_mode_tdscdma_gsm_summary">"優先ネットワークモード: TDSCDMA / GSM"</string>
+    <string name="preferred_network_mode_lte_tdscdma_gsm_summary">"優先ネットワークモード: LTE/GSM/TDSCDMA"</string>
+    <string name="preferred_network_mode_tdscdma_gsm_wcdma_summary">"優先ネットワークモード: TDSCDMA/GSM/WCDMA"</string>
+    <string name="preferred_network_mode_lte_tdscdma_wcdma_summary">"優先ネットワークモード: LTE/TDSCDMA/WCDMA"</string>
+    <string name="preferred_network_mode_lte_tdscdma_gsm_wcdma_summary">"優先ネットワークモード: LTE/TDSCDMA/GSM/WCDMA"</string>
+    <string name="preferred_network_mode_tdscdma_cdma_evdo_gsm_wcdma_summary">"優先ネットワークモード: TDSCDMA/CDMA/EvDo/GSM/WCDMA"</string>
+    <string name="preferred_network_mode_lte_tdscdma_cdma_evdo_gsm_wcdma_summary">"優先ネットワークモード: LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA"</string>
   <string-array name="preferred_network_mode_choices">
     <item msgid="7886739962255042385">"LTE/WCDMA"</item>
     <item msgid="577652050447385699">"LTE"</item>
